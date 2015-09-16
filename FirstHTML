@@ -1,0 +1,20 @@
+<DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>YO LE MONDE</TITLE>
+</HEAD>
+<BODY>
+ 
+ <audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="chute-SF.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<H1>LA VIE C'EST PAS CA</H1>
+<P>LA VIE C'EST BIEN DESFOIS</P>
+<img src="Happy_Urbanie.jpg" alt="Mountain View" style="width:304px;height:300px;">
+<img src="X1epfQiH.jpeg" alt="Mountain View" style="width:304px;height:300px;">
+
+</BODY>
+</HTML>
