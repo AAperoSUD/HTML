@@ -3,7 +3,7 @@
 <HEAD>
 <TITLE>YO LE MONDE</TITLE>
 </HEAD>
-<BODY>
+<BODY background="f4fc99c9204ddd41ef8c1bdb9258aecc_large.jpeg">
  
  <audio controls>
   <source src="horse.ogg" type="audio/ogg">
@@ -13,8 +13,18 @@ Your browser does not support the audio element.
 
 <H1>LA VIE C'EST PAS CA</H1>
 <P>LA VIE C'EST BIEN DESFOIS</P>
-<img src="Happy_Urbanie.jpg" alt="Mountain View" style="width:304px;height:300px;">
-<img src="X1epfQiH.jpeg" alt="Mountain View" style="width:304px;height:300px;">
+<img src="55.jpg" alt="Mountain View" style="width:504px;height:500px;">
+<img src="image.png" alt="Mountain View" style="width:504px;height:500px;">
 
+<p> <FONT COLOR="white"style="font-size:50px";FACE="Arial">Alors tu vas faire quoi ?</FONT> </p>
+
+<p> <FONT COLOR="red"style="font-size:50px";FACE="Palatino,cursive">APERO</FONT> </p>
+
+<p> <FONT COLOR="yellow"style="font-size:50px";FACE="Arial">51 le pastis</FONT> </p>
+
+<p> <img src="pastis-51-45l.jpg"style="width:304px;height:300px" 
+
+<img src="2417P1.jpg"style="width:404px;height:400px" </p>
+ 
 </BODY>
 </HTML>
