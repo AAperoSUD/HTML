@@ -1,32 +1,30 @@
 <DOCTYPE HTML>
 <HTML>
 <HEAD>
-<TITLE>YO LE MONDE</TITLE>
+<TITLE>Cinema</TITLE>
+<link rel="stylesheet" type="text/css" href="monstyle.css">
 </HEAD>
-<BODY background="f4fc99c9204ddd41ef8c1bdb9258aecc_large.jpeg">
+<BODY>
+ <H1>CINEMA</H1>
  
- <audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="chute-SF.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+<link rel="stylesheet" type="text/css" href="monstyle.css">
 
-<H1>LA VIE C'EST PAS CA</H1>
-<P>LA VIE C'EST BIEN DESFOIS</P>
-<img src="55.jpg" alt="Mountain View" style="width:504px;height:500px;">
-<img src="image.png" alt="Mountain View" style="width:504px;height:500px;">
-
-<p> <FONT COLOR="white"style="font-size:50px";FACE="Arial">Alors tu vas faire quoi ?</FONT> </p>
-
-<p> <FONT COLOR="red"style="font-size:50px";FACE="Palatino,cursive">APERO</FONT> </p>
-
-<p> <FONT COLOR="yellow"style="font-size:50px";FACE="Arial">51 le pastis</FONT> </p>
-
-<p> <img src="pastis-51-45l.jpg"style="width:304px;height:300px" 
-
-<img src="2417P1.jpg"style="width:404px;height:400px" </p>
-
-<a href="logo-le-sud.jpg">link text</a>
+<a href="fastandfurious.html">Fast and Furious</a>
+<br/>
+<br/>
+<a href="got.html">Game of Thrones</a>
+<br/>
+<br/>
+<a href="HP.html">Harry Potter</a>
+<br/>
+<br/> 
+<a href="projetx.html">Projet X</a>
+<br/>
+<br/> 
+<a href="gend.html">Les Gendarmes</a>
+<br/>
+<br/> 
+<a href="AS.html">American Sniper</a>
 
  </BODY>
 </HTML>
